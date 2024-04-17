@@ -28,10 +28,6 @@ byte matrix[10][7]={
 {1,0,1,1,1,1,1}, //seis
 {1,1,1,0,0,0,0}, //siete
 {1,1,1,1,1,1,1}, //ocho
-
-Programación en Arduino
-
-Práctica 13: Alarma Proximidad v.2 librería 48
 {1,1,1,0,0,1,1} //nueve
 };
 public:
